@@ -1,5 +1,5 @@
 ## OpenVPN Installer
-OpenVPN Auto Installer for Debian, Ubuntu and CentOS [Kashif H Khan](https://www.facebook.com/kashifhk123).
+OpenVPN Auto Installer for Debian, Ubuntu and CentOS | [Kashif H Khan](https://www.facebook.com/kashifhk123).
 
 This script will let you setup your own VPN server in no more than a minute, even if you haven't used OpenVPN before. It has been designed to be as unobtrusive and universal as possible.
 
@@ -8,14 +8,14 @@ This script will let you setup your own VPN server in no more than a minute, eve
 Run the script and follow the assistant:
 ```shell
 `wget https://git.io/openvpn -O openvpn.sh && bash openvpn.sh`
-
+```
 
 ### How To use it
 
 Run the script and follow the assistant:
 ```shell
 `bash openvpn.sh`
-
+```
 
 ### Tutorial (How to Make Your First Own VPN Server)
 > Course Link Will Update Soon
