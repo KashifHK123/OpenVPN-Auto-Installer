@@ -6,14 +6,14 @@ This script will let you setup your own VPN server in no more than a minute, eve
 ### Installation
 
 Run the script and follow the assistant:
-
+```shell
 `wget https://git.io/openvpn -O openvpn.sh && bash openvpn.sh`
 
 
 ### How To use it
 
 Run the script and follow the assistant:
-
+```shell
 `bash openvpn.sh`
 
 
